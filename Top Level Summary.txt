@@ -1,0 +1,7 @@
+## Observations on the data
+
+1. Based on the statistics for each drug regimen, the drugs Capomulin and Ramicane are most consistent with the results, in addition to having a lower mean size for tumor volume.
+
+2. For Capomulin drug regimen, there is a positive correlation between the average tumor volume and the weight of the mouse.
+
+3. Between the 4 selected drug regimens for the quartile analysis, mouse under the drug infubinol had the highest tumor volume, with the interquartile range data centered around the mean, and an outlier in the position similar to the mean of both mouse under the capomulin and rumicane drugs.
